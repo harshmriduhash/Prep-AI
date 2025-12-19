@@ -1,7 +1,4 @@
-
-<p align="center">
-  <img src="Gemini_Generated_Image_flv9lqflv9lqflv9.jpg" width="600" />
-</p>
+https://sketchql-alpha.vercel.app/
 
 # PrepAI – Intelligent Interview & Notes Assistant
 
