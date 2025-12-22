@@ -1,5 +1,4 @@
 import React, { createContext, useContext, useState, useEffect } from "react";
-
 interface AuthContextType {
   isAuthenticated: boolean;
   isLoading: boolean; // <--- Added: Tracks if we are still checking local storage
