@@ -8,7 +8,7 @@ PrepAI is a comprehensive AI-powered platform designed to help users prepare for
 
 ## 🚀 Live Demo
 
-▶ **Try the project here:** [https://huggingface.co/spaces/aki-008/prepAI](https://huggingface.co/spaces/aki-008/prepAI)
+▶ **Try the project here:** https://sketchql-alpha.vercel.app/
 
 ---
 
