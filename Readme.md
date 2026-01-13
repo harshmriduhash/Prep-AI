@@ -5,12 +5,6 @@ PrepAI is a comprehensive AI-powered platform designed to help users prepare for
 
 ---
 
-## 🚀 Live Demo
-
-▶ **Try the project here:** https://sketchql-alpha.vercel.app/
-
----
-
 ## 🚀 Overview
 
 PrepAI enables users to:
