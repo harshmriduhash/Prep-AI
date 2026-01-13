@@ -1,4 +1,3 @@
-https://sketchql-alpha.vercel.app/
 
 # PrepAI – Intelligent Interview & Notes Assistant
 
